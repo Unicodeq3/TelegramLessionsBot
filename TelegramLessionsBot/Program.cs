@@ -75,7 +75,7 @@ namespace TelegramLessionsBot
             else
             {
                 db.openConnection();
-                if (new MySqlCommand($"INSERT INTO `telegram`.`users` (`chatID`, `isAdmin`, `isEnabled`) VALUES ({chatId}, 0, 0);", db._connection).ExecuteNonQuery() == 1)
+                if (new MySqlCommand($"INSERT INTO `users` (`chatID`, `isAdmin`, `isEnabled`) VALUES ({chatId}, 0, 0);", db._connection).ExecuteNonQuery() == 1)
                 {
                     return null;
                 }
@@ -112,7 +112,7 @@ namespace TelegramLessionsBot
             db.openConnection();
 
             new MySqlCommand(
-                $"UPDATE `telegram`.`users` SET `isEnabled`= NOT `isEnabled` WHERE  `chatID`={chatId} LIMIT 1",
+                $"UPDATE `users` SET `isEnabled`= NOT `isEnabled` WHERE  `chatID`={chatId} LIMIT 1",
                 db.getConnection()).ExecuteNonQuery();
                 db.closeConnection();
         }

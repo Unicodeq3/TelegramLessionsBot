@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://localhost:3306/telegram</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="@containers-us-west-34.railway.app" uuid="e1ac085c-f72e-4401-a95a-6413cb3775b6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://containers-us-west-34.railway.app:7167</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
