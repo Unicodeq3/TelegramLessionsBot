@@ -1,0 +1,15 @@
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\bin\Release\net6.0\TelegramLessionsBot.exe
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\bin\Release\net6.0\TelegramLessionsBot.deps.json
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\bin\Release\net6.0\TelegramLessionsBot.runtimeconfig.json
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\bin\Release\net6.0\TelegramLessionsBot.dll
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\bin\Release\net6.0\TelegramLessionsBot.pdb
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.csproj.AssemblyReference.cache
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.AssemblyInfoInputs.cache
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.AssemblyInfo.cs
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.csproj.CoreCompileInputs.cache
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.dll
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\refint\TelegramLessionsBot.dll
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.pdb
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\TelegramLessionsBot.genruntimeconfig.cache
+C:\Users\Exmo2\RiderProjects\TelegramLessionsBot\TelegramLessionsBot\obj\Release\net6.0\ref\TelegramLessionsBot.dll
