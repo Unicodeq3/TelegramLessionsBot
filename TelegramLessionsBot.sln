@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramLessionsBot", "TelegramLessionsBot\TelegramLessionsBot.csproj", "{188F8C00-5CAC-4FB8-9998-266F79BB3E9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramLessionsBot", "TelegramLessionsBot.csproj", "{188F8C00-5CAC-4FB8-9998-266F79BB3E9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
